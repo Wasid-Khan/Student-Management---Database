@@ -165,6 +165,3 @@ public void getData()
 
 The **Student Management System** demonstrates the use of ADO.NET for database operations in a C# Windows Forms application. It provides a user-friendly interface to perform CRUD operations and manage student records efficiently. This project highlights the integration of C# with SQL Server, showcasing the practical application of database concepts in C#.
 
----
-
-Feel free to customize this README file further according to your project's specific requirements.
