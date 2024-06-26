@@ -1,29 +1,23 @@
-# Student-Management---Database
+## Student-Management---Database
 A Database connectivity concept implementation in C#.
-
-Here's a README file for the Student Management System application, emphasizing the database concepts in C#:
-
----
-
-# Student Management System
 
 ## Project Overview
 
 The **Student Management System** is a Windows Forms application developed using C#. This application provides basic CRUD (Create, Read, Update, Delete) operations to manage student records. The system connects to a SQL Server database to store and retrieve data, ensuring persistent storage and efficient data handling.
 
-## Features
+# Features
 
 - **CRUD Operations**: Add, read, update, and delete student records in the database.
 - **Search Functionality**: Retrieve student records and display them in a list box.
 - **Clear Data**: Clear the input fields to allow easy data entry.
 
-## System Requirements
+# System Requirements
 
 - **C# Programming Language**
 - **Visual Studio IDE**
 - **SQL Server Database**
 
-## Database Integration
+# Database Integration
 
 The application uses ADO.NET to connect to a SQL Server database. The connection string is stored in the `App.config` file and retrieved using the `ConfigurationManager`. The following operations are performed using SQL commands:
 
