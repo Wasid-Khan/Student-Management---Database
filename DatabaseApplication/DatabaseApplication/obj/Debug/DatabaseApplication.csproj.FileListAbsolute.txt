@@ -1,0 +1,10 @@
+D:\visualStudio\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.exe.config
+D:\visualStudio\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.exe
+D:\visualStudio\DatabaseApplication\DatabaseApplication\bin\Debug\DatabaseApplication.pdb
+D:\visualStudio\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csprojAssemblyReference.cache
+D:\visualStudio\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.Properties.Resources.resources
+D:\visualStudio\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csproj.GenerateResource.cache
+D:\visualStudio\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.csproj.CoreCompileInputs.cache
+D:\visualStudio\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.exe
+D:\visualStudio\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.pdb
+D:\visualStudio\DatabaseApplication\DatabaseApplication\obj\Debug\DatabaseApplication.StudentManagement.resources
